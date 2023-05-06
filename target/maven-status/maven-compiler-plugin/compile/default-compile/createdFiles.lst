@@ -1,0 +1,5 @@
+com/dani/api/ProductResource.class
+com/dani/service/ProductService.class
+com/dani/service/ProductServiceImpl.class
+com/dani/model/Product.class
+com/dani/config/AppConfig.class
